@@ -1,0 +1,41 @@
+# движение
+u = u0 + a*t
+s = u0*t + a*t^2/2
+s = (u0 + u)*t/2
+a = (u - u0)/t
+a = 2*(s - u0*t)/t^2
+a = (u^2 - u0^2)/(2*s)
+u = 2*s/t - u0
+t = (u - u0)/a
+t = 2*s/(u0 + u)
+s = (u^2 - u0^2)/(2*a)
+
+# сила
+F = m*a
+a = F/m
+m = F/a
+P = m*g
+m = P/g
+F = mu*N
+
+# импульс
+p = m*u
+u = p/m
+m = p/u
+
+# работа и энергия
+A = F*s
+F = A/s
+s = A/F
+E = m*u^2/2
+m = 2*E/u^2
+N = A/t
+A = N*t
+
+# плотность
+rho = m/V
+m = rho*V
+V = m/rho
+
+# теплота
+Q = c*m*(t2 - t1)
